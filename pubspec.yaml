@@ -1,5 +1,5 @@
-name: tubes_dart
-description: A new Flutter package project.
+name: tubes
+description: Tubes client library to connect to a tubes realtime server
 version: 0.0.1
 repository: https://github.com/go-tubes/tubes-dart
 
